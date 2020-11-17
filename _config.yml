@@ -21,7 +21,7 @@
 title: ργαδμγg | cutting edge tech
 email: github@pradurg.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In the interest to push the interesting stuff to the open source community, we hereby promise to release the cool stuff as and when we possible.
+  In the interest to push the interesting stuff to the open source community, we hereby promise to release the cool stuff as and when possible.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pradurg.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pradurg
