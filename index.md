@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Namaste
 ---
 # Namaste OSS __\_/\\\___
 ## Introduction
