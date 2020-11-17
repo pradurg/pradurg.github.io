@@ -1,0 +1,11 @@
+.idea/
+_site
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+gemfiles/
+Gemfile
+Gemfile.lock
+node_modules/
