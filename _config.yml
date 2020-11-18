@@ -27,6 +27,9 @@ url: "http://pradurg.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: pradurg
 github_username:  pradurg
 
+# Google Analytics
+google_analytics: G-032HJMWNZ5
+
 # Build settings
 theme: minima
 plugins:
