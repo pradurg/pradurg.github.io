@@ -28,7 +28,7 @@ twitter_username: pradurg
 github_username:  pradurg
 
 # Google Analytics
-google_analytics: G-032HJMWNZ5
+google_analytics: UA-181243333-2 # G-032HJMWNZ5
 
 # Build settings
 theme: minima
