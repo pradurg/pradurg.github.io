@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  "About Durg | Kirtimukh"
-date:   2020-10-15 00:00:00 +0530
-description: Durg | Kirtimukh - The guardian of thresholds
-excerpt: The guardian of thresholds
-categories: kirtimukh update
+layout: page
+title: ργαδμγg | Kirtimukh
+permalink: /projects/kirtimukh/
 ---
 
 ## Introduction
